@@ -1,6 +1,6 @@
 formatVersion: 1
 name: first_class_disk.yaml
-version: 1.0
+version: 2.0
 inputs:
   FCD_Size:
     type: integer
@@ -8,6 +8,8 @@ inputs:
       - 1
       - 2
       - 3
+      - 4
+      - 5
     title: FCD size in GB
     description: Size of FCD in gigabytes
     default: 1
